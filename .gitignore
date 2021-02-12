@@ -1,6 +1,3 @@
-train/*
-test/*
-results/*
 __pycache__
 *.p
 
